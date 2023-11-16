@@ -73,6 +73,10 @@ public class unitTestSample {
                 System.out.println("The " + percentageBoys + "% of the group are boys");
                 System.out.println("The " + percentageGirls + "% of the group are girls");
                 break;
+            
+             case "12":
+                 System.out.println("Commit in a new branch");
+                 break;
         }
     }
 }
